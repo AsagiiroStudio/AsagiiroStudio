@@ -6,8 +6,8 @@
 </p>
 
 ## 📌 About Me
-Asagiiro Studio is a small homely studio specialized in Software and Game development.<br />
-My work also includes producing, optimizing and reviewing many types of modern media.
+Asagiiro Studio is a small homely studio specialized in software and game development.<br />
+My work also includes producing, optimizing and reviewing many other types of media.
 
 ## 💼 The Business
 Feel free to contact me with your Project Details including: 

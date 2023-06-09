@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Header_Logo.png" /><br /><br />
   <b>My Socials:</b><br />
-  <a href="mailto:asagiiro.studio@gmail.com"><img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Contact_Email.png" alt="Email: asagiiro.studio@gmail.com" /></a>
-  <a href="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Discord.md"><img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Contact_Discord.png" alt="asagiiro.studio@gmail.com" /></a>
-  <a href="https://www.youtube.com/channel/UCnvlWjSgarvEO-ZmwJHJxyQ"><img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Contact_YouTube.png" alt="YouTube" /></a>
-  <a href="https://www.tiktok.com/@asagiirostudio"><img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Contact_TikTok.png" alt="TikTok" /></a>
-  <a href="https://asagiirostudio.itch.io/"><img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Contact_Itch.png" alt="Itch.io" /></a>
-  <a href="https://gamejolt.com/@AsagiiroStudio"><img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Contact_GameJolt.png" alt="GameJolt" /></a>
+  <a href="mailto:asagiiro.studio@gmail.com"><img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Contact_Email.png" alt="Email" title="Email: asagiiro.studio@gmail.com" /></a>
+  <a href="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Discord.md"><img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Contact_Discord.png" alt="Discord" title="Discord: Asagiiro Studio#4504" /></a>
+  <a href="https://www.youtube.com/channel/UCnvlWjSgarvEO-ZmwJHJxyQ"><img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Contact_YouTube.png" alt="YouTube" title="YouTube" /></a>
+  <a href="https://www.tiktok.com/@asagiirostudio"><img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Contact_TikTok.png" alt="TikTok" title="TikTok" /></a>
+  <a href="https://asagiirostudio.itch.io/"><img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Contact_Itch.png" alt="Itch.io" title="Itch.io" /></a>
+  <a href="https://gamejolt.com/@AsagiiroStudio"><img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Contact_GameJolt.png" alt="GameJolt" title="GameJolt" /></a>
 </p>
 
 ## 📌 About Me

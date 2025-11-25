@@ -15,7 +15,7 @@ My work also includes producing, optimizing and reviewing many other types of me
 
 ## 📝 Software & Tools
 
-<b>Office Tasks:</b><br />
+<b>Productivity & Office Tasks:</b><br />
 <img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Info_Windows.png" /> Microsoft Windows (⭐️⭐️⭐️)<br />
 <img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Info_Microsoft Office.png" /> Microsoft Office 365 (⭐️⭐️⭐️)<br />
 <img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Info_Google Office.png" /> Google Workspace (⭐️⭐️⭐️)<br />

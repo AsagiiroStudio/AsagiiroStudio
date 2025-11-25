@@ -13,20 +13,12 @@
 Asagiiro Studio is a small homely studio specialized in software and game development.<br />
 My work also includes producing, optimizing and reviewing many other types of media.
 
-## 💼 Business Inquiries
-Feel free to contact me with your Project Details including: 
-- Required Tasks
-- Size and Scope
-- Estimated Time Frame
-- Estimated Budget
-- Payment Details
-
 ## 📝 Software & Tools
 
 <b>Office Tasks:</b><br />
 <img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Info_Windows.png" /> Microsoft Windows (⭐️⭐️⭐️)<br />
 <img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Info_Microsoft Office.png" /> Microsoft Office 365 (⭐️⭐️⭐️)<br />
-<img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Info_Google Office.png" /> Google Office Suite (⭐️⭐️)<br />
+<img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Info_Google Office.png" /> Google Workspace (⭐️⭐️⭐️)<br />
 <br />
 <b>Visual Media Editing:</b><br />
 <img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Info_Photoshop.png" /> Photoshop (⭐️⭐️⭐️)<br />
@@ -45,11 +37,11 @@ Feel free to contact me with your Project Details including:
 <img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Info_Construct 3.png" /> Construct 3 (⭐️⭐️⭐️)<br />
 <img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Info_Construct 2.png" /> Construct 2 (⭐️⭐️⭐️)<br />
 <img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Info_Construct Classic.png" /> Construct Classic (⭐️⭐️⭐️)<br />
-<img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Info_Unity Engine.png" /> Unity Engine 2023+ (⭐️⭐️)<br />
-<img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Info_Unreal Engine.png" /> Unreal Engine 5 (⭐️)<br />
+<img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Info_Unreal Engine.png" /> Unreal Engine 5 (⭐️⭐️)<br />
+<img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Info_Unity Engine.png" /> Unity Engine 2023+ (⭐️)<br />
 <br />
 <b>Coding:</b><br />
-<img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Info_Github.png" /> GitHub/Git (⭐️⭐️⭐️)<br />
+<img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Info_Github.png" /> GitHub (⭐️⭐️⭐️)<br />
 <img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Info_VSCode.png" /> VSCode (⭐️⭐️)<br />
 <img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Info_Visual Studio.png" /> Visual Studio 2022 (⭐️⭐️)<br />
 <img src="https://raw.githubusercontent.com/AsagiiroStudio/AsagiiroStudio/main/Info_HTML.png" /> Language: HTML (⭐️⭐️)<br />
